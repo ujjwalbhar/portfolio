@@ -167,8 +167,10 @@ body {
 }
 
 /* Projects Section - Floating Carousel */
+170
 .projects-carousel {
-    overflow: hidden;
+        width: 100%;
+        overflow: visible;
     padding: 2rem 0;
     position: relative;
 }
